@@ -1,0 +1,4 @@
+interface:
+  display_name: "玩具评测内容顾问"
+  short_description: "面向成人收藏玩具，提供实测、选题、口播和镜头建议，适配 B 站与抖音"
+  default_prompt: "使用 $toy-review-advisor，帮我为一款成人收藏玩具设计实测重点和 B 站、抖音内容方案。"
